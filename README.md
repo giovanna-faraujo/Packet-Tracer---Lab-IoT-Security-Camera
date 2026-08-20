@@ -1,4 +1,4 @@
-# Laboratório Cisco Packet Tracer: Customização e Segurança em Dispositivo IoT
+# Customização e Segurança em Dispositivo IoT
 
 > **Objetivo Prático:** Modificação de componentes, adaptação de scripts (JavaScript) e integração de uma câmera de segurança IoT a um servidor de gerenciamento remoto via Cisco Packet Tracer.
 
